@@ -3,7 +3,7 @@
 A Java based Android app - Simple Dictionary of Miwok Language.
 
 
-This app displays lists of vocabulary words for the user to learn the [Miwok](https://en.wikipedia.org/wiki/Miwok)language.
+This app displays lists of vocabulary words for the user to learn the [Miwok](https://en.wikipedia.org/wiki/Miwok) language.
 Its my practice project when enroll [Android Basic Nanodegree by Udacity (free version)](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
 
 
