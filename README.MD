@@ -16,8 +16,8 @@ Also, if you are getting confused with certain code, please don't hesitate to co
 
 What things you need to install the software :
 
-*Android SDK
-*Android Build Tools
+* Android SDK
+* Android Build Tools
 
 ### Getting Started
 
