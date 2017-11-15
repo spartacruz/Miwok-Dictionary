@@ -30,21 +30,6 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".PhrasesActivity"
-            android:label="@string/app_name_phrases"
-            android:parentActivityName=".MainActivity"/>
-
-        <activity android:name=".NumbersActivity"
-            android:label="@string/app_name_numbers"
-            android:parentActivityName=".MainActivity"/>
-
-        <activity android:name=".FamilyActivity"
-            android:label="@string/app_name_family"
-            android:parentActivityName=".MainActivity"/>
-
-        <activity android:name=".ColorsActivity"
-            android:label="@string/app_name_color"
-            android:parentActivityName=".MainActivity"></activity>
     </application>
 
 </manifest>
