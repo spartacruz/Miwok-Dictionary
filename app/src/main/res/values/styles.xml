@@ -12,13 +12,22 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
 
     <!-- Base application theme. -->
-    <style name="AppTheme" parent="Base.Theme.AppCompat.Light.DarkActionBar">
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <item name="colorPrimary">@color/primary_color</item>
         <item name="colorPrimaryDark">@color/primary_dark_color</item>
+        <!--<item name="actionBarStyle" >@style/MiwokAppBarStyle</item>-->
+        <item name="android:windowContentOverlay">@null</item>
     </style>
+
+    <!--&lt;!&ndash; App bar style &ndash;&gt;-->
+    <!--<style name="MiwokAppBarStyle" parent="style/Widget.AppCompat.Light.ActionBar.Solid.Inverse">-->
+        <!--&lt;!&ndash; Remove the shadow below the app bar Widget.DeviceDefault.Light.ActionBar.Solid.Inverse - Widget.AppCompat.Light.ActionBar.Solid.Inverse&ndash;&gt;-->
+        <!--<item name="elevation">0dp</item>-->
+    <!--</style>-->
+
 
     <!-- Style for a category of vocabulary words -->
     <style name="CategoryStyle">
